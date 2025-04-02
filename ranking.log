@@ -1,10 +1,10 @@
 auto update start
 Running auto_run.sh with token
--rwxr-xr-x 1 runner docker 114 Apr  1 03:45 auto_run.sh
--rw-r--r-- 1 runner docker 8045 Apr  1 03:45 source/process.py
+-rwxr-xr-x 1 runner docker 114 Apr  2 03:37 auto_run.sh
+-rw-r--r-- 1 runner docker 8045 Apr  2 03:37 source/process.py
 -e 
 ----------Run Time:----------
-Tue Apr  1 03:45:35 UTC 2025
+Wed Apr  2 03:37:21 UTC 2025
 auto_run.sh
 Get most stars repos of LLM...
 Requesting query{
@@ -526,7 +526,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 8902:1C696E:666F536:CCD0008:67EB6199."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 6F81:1F78B2:3CA63F7:78F0648:67ECB12B."\n}'.
 Requesting query{
     search(query: "RAG stars:>0 sort:stars", type: REPOSITORY, first:50 ) {
       pageInfo { endCursor }
@@ -582,7 +582,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 8900:1B4D8C:66C6968:CD4A486:67EB619B."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 6F82:1873:EB2946:1D5A02D:67ECB12D."\n}'.
 Requesting query{
     search(query: "RAG stars:>0 sort:stars", type: REPOSITORY, first:50 ) {
       pageInfo { endCursor }
@@ -638,7 +638,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 8901:C9B46:65706C6:CAD18B4:67EB619D."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 6F80:738E8:45C8B87:8B35BCE:67ECB12F."\n}'.
 Requesting query{
     search(query: "RAG stars:>0 sort:stars", type: REPOSITORY, first:50 ) {
       pageInfo { endCursor }
@@ -1089,7 +1089,7 @@ Save Top 100 Stars in Generative_AI in Top100/Generative AI.md!
 Save AI in README.md!
 Save Top 100 Stars in AI in Top100/AI.md!
 
-Save data to Data/github-ranking-2025-04-01.csv
-Total time: 109.464254s
+Save data to Data/github-ranking-2025-04-02.csv
+Total time: 109.326366s
 auto update end
 commit&push start
