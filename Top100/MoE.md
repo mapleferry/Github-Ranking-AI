@@ -14,7 +14,7 @@
 | 7 | [Moe-Counter](https://github.com/journey-ad/Moe-Counter) | 2201 | 236 | JavaScript | 6 | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | 2025-02-06T06:16:00Z |
 | 8 | [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) | 2139 | 134 | Python | 63 | Mixture-of-Experts for Large Vision-Language Models | 2024-12-03T09:08:16Z |
 | 9 | [MoeKoeMusic](https://github.com/iAJue/MoeKoeMusic) | 1966 | 132 | Vue | 24 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windows / macOS / Linux :electron: | 2025-04-06T07:47:38Z |
-| 10 | [MoBA](https://github.com/MoonshotAI/MoBA) | 1720 | 103 | Python | 7 | MoBA: Mixture of Block Attention for Long-Context LLMs | 2025-04-03T07:28:06Z |
+| 10 | [MoBA](https://github.com/MoonshotAI/MoBA) | 1721 | 103 | Python | 7 | MoBA: Mixture of Block Attention for Long-Context LLMs | 2025-04-03T07:28:06Z |
 | 11 | [fastmoe](https://github.com/laekov/fastmoe) | 1692 | 194 | Python | 26 | A fast MoE impl for PyTorch | 2025-02-10T06:04:33Z |
 | 12 | [DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) | 1632 | 276 | Python | 16 | DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models | 2024-01-16T12:18:10Z |
 | 13 | [OpenMoE](https://github.com/XueFuzhao/OpenMoE) | 1499 | 78 | Python | 5 | A family of open-sourced Mixture-of-Experts (MoE) Large Language Models | 2024-03-08T15:08:26Z |

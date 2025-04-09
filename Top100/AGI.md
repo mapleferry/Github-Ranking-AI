@@ -6,8 +6,8 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 33708 | 9389 | TypeScript | 127 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 2025-03-28T17:13:05Z |
-| 2 | [mindsdb](https://github.com/mindsdb/mindsdb) | 27656 | 4957 | Python | 65 | AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data. | 2025-04-09T13:43:43Z |
-| 3 | [agno](https://github.com/agno-agi/agno) | 24405 | 3107 | Python | 66 | Build Reasoning Agents with memory, knowledge, tools and native multi-modal support. | 2025-04-09T14:00:19Z |
+| 2 | [mindsdb](https://github.com/mindsdb/mindsdb) | 27657 | 4957 | Python | 65 | AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data. | 2025-04-09T13:43:43Z |
+| 3 | [agno](https://github.com/agno-agi/agno) | 24409 | 3107 | Python | 66 | Build Reasoning Agents with memory, knowledge, tools and native multi-modal support. | 2025-04-09T14:00:19Z |
 | 4 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 16174 | 1949 | Python | 141 | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. | 2025-01-22T22:14:07Z |
 | 5 | [screenpipe](https://github.com/mediar-ai/screenpipe) | 13198 | 944 | TypeScript | 205 | AI app store powered by 24/7 desktop history.  open source \| 100% local \| dev friendly \| 24/7 screen, mic recording | 2025-04-08T17:28:51Z |
 | 6 | [awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) | 11082 | 915 | Python | 0 | ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀 | 2024-11-05T10:24:21Z |
@@ -50,10 +50,10 @@
 | 43 | [Magick](https://github.com/Oneirocom/Magick) | 787 | 127 | TypeScript | 15 | Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us! | 2025-03-18T22:00:05Z |
 | 44 | [agile-admin](https://github.com/gmingchen/agile-admin) | 750 | 170 | Vue | 0 | agile-admin vue3-element-plus-admin vue3.0 ts typescript element-plus vue-cli vue-router i18n vuex composition-api class-style vite pinia webpack  管理端 后台管理 admin模版框架 后端权限控制 动态加载路由 国际化 前端vue 后端java springboot 【私活神器，私活利器】 | 2024-10-25T07:52:00Z |
 | 45 | [AGIEval](https://github.com/ruixiangcui/AGIEval) | 745 | 50 | Python | 7 | None | 2024-06-13T14:20:51Z |
-| 46 | [AgileRL](https://github.com/AgileRL/AgileRL) | 726 | 58 | Python | 7 | Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools. | 2025-04-09T14:33:20Z |
+| 46 | [AgileRL](https://github.com/AgileRL/AgileRL) | 726 | 58 | Python | 6 | Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools. | 2025-04-09T14:33:20Z |
 | 47 | [DriveAGI](https://github.com/OpenDriveLab/DriveAGI) | 709 | 32 | Python | 10 | [CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving & Foundation Models in Autonomous System | 2025-01-24T03:44:15Z |
 | 48 | [AgileTC](https://github.com/didi/AgileTC) | 688 | 276 | JavaScript | 46 | AgileTC is an agile test case management platform | 2024-09-06T05:43:48Z |
-| 49 | [agile_autonomy](https://github.com/uzh-rpg/agile_autonomy) | 661 | 172 | C++ | 60 | Repository Containing the Code associated with the Paper: "Learning High-Speed Flight in the Wild" | 2023-01-23T20:34:30Z |
+| 49 | [agile_autonomy](https://github.com/uzh-rpg/agile_autonomy) | 662 | 174 | C++ | 60 | Repository Containing the Code associated with the Paper: "Learning High-Speed Flight in the Wild" | 2023-01-23T20:34:30Z |
 | 50 | [automata](https://github.com/emrgnt-cmplxty/automata) | 649 | 106 | Python | 21 | Automata: A self-coding agent | 2023-09-05T21:24:32Z |
 | 51 | [Face-Aging-CAAE](https://github.com/ZZUTK/Face-Aging-CAAE) | 643 | 235 | Python | 34 | Age Progression/Regression by Conditional Adversarial Autoencoder | 2021-05-08T17:45:46Z |
 | 52 | [langup-ai](https://github.com/jiran214/langup-ai) | 636 | 117 | Python | 8 | AGI 社交网络 Bot.  BiliBili \|  直播聊天数字人 \| 视频@自动回复 \| 私信bot \| 终端聊天  \|  语音交互 | 2024-03-30T11:14:28Z |
@@ -66,7 +66,7 @@
 | 59 | [AgileJS](https://github.com/drawcall/AgileJS) | 499 | 62 | JavaScript | 2 | AgileJS - The Css3 Creation Engine 🍖🌭🍔  | 2021-11-18T08:28:41Z |
 | 60 | [agilicious](https://github.com/uzh-rpg/agilicious) | 488 | 51 | TeX | 9 | Agile flight done right!  | 2023-03-07T18:30:25Z |
 | 61 | [AgileMapper](https://github.com/agileobjects/AgileMapper) | 461 | 28 | C# | 12 | A zero-configuration, highly-configurable, unopinionated object mapper with viewable execution plans. Flattens, unflattens, deep clones, merges, updates and projects queries. .NET 3.5+ and .NET Standard 1.0+. | 2022-09-25T09:05:35Z |
-| 62 | [LocalAGI](https://github.com/mudler/LocalAGI) | 458 | 74 | Python | 8 | 100% Local AGI with LocalAI | 2025-04-09T13:27:04Z |
+| 62 | [LocalAGI](https://github.com/mudler/LocalAGI) | 458 | 74 | Python | 9 | 100% Local AGI with LocalAI | 2025-04-09T13:27:04Z |
 | 63 | [Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) | 458 | 307 | Jupyter Notebook | 1 | Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition | 2024-06-18T01:39:38Z |
 | 64 | [AgentPilot](https://github.com/jbexta/AgentPilot) | 429 | 55 | Python | 2 | A versatile workflow automation platform to create, organize, and execute AI workflows, from a single LLM to complex AI-driven workflows. | 2025-03-03T22:50:37Z |
 | 65 | [agithub](https://github.com/mozilla/agithub) | 428 | 62 | Python | 17 | Agnostic Github client API -- An EDSL for connecting to REST servers | 2024-06-24T18:35:09Z |
@@ -83,7 +83,7 @@
 | 76 | [Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI) | 352 | 34 | Jupyter Notebook | 0 | AGI资料汇总学习（主要包括LLM和AIGC），持续更新...... | 2025-01-20T06:16:48Z |
 | 77 | [AGI-survey](https://github.com/ulab-uiuc/AGI-survey) | 350 | 24 | None | 1 | None | 2024-11-03T00:20:47Z |
 | 78 | [bigcodebench](https://github.com/bigcode-project/bigcodebench) | 334 | 38 | Python | 9 | [ICLR'25] BigCodeBench: Benchmarking Code Generation Towards AGI | 2025-04-07T12:26:24Z |
-| 79 | [he4o](https://github.com/jiaxiaogang/he4o) | 324 | 49 | Objective-C | 0 | 螺旋熵减系统 | 2025-04-09T01:25:08Z |
+| 79 | [he4o](https://github.com/jiaxiaogang/he4o) | 324 | 49 | Objective-C | 0 | 螺旋熵减系统 | 2025-04-09T14:55:18Z |
 | 80 | [anda](https://github.com/ldclabs/anda) | 321 | 37 | Rust | 0 | 🤖 An AI agent framework built with Rust, powered by ICP and TEEs. | 2025-04-08T13:55:54Z |
 | 81 | [openagi](https://github.com/aiplanethub/openagi) | 320 | 76 | Jupyter Notebook | 6 | Paving the way for open agents and AGI for all. | 2025-02-25T11:22:33Z |
 | 82 | [awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) | 317 | 23 | TeX | 0 | An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences. | 2025-04-09T03:00:49Z |
