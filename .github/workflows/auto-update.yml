@@ -29,7 +29,17 @@ jobs:
     
     - name: Delete old logs
       run: |
-        find . -name "*.log" -type f -mtime +7 -delete
+        echo "Finding log files older than 7 days to delete:"
+        find . -name "*.log" -type f -mtime +6 -ls
+        find . -name "*.log" -type f -mtime +6 -delete
+        
+    - name: Delete workflow runs
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        repository: ${{ github.repository }}
+        retain_days: 7
+        keep_minimum_runs: 10
         
     - name: Auto Update
       run: |
