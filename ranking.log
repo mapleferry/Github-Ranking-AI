@@ -1,10 +1,10 @@
 auto update start
 Running auto_run.sh with token
--rwxr-xr-x 1 runner docker 114 Apr 18 03:35 auto_run.sh
--rw-r--r-- 1 runner docker 8045 Apr 18 03:35 source/process.py
+-rwxr-xr-x 1 runner docker 114 Apr 19 03:32 auto_run.sh
+-rw-r--r-- 1 runner docker 8045 Apr 19 03:32 source/process.py
 -e 
 ----------Run Time:----------
-Fri Apr 18 03:35:55 UTC 2025
+Sat Apr 19 03:33:02 UTC 2025
 auto_run.sh
 Get most stars repos of LLM...
 Requesting query{
@@ -902,63 +902,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID E878:139C5E:86FD7F:10B5AAC:6801C902."\n}'.
-Requesting query{
-    search(query: "AI stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
-      pageInfo { endCursor }
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazerCount
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                            openIssues: issues(states: OPEN) {
-                                totalCount
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        ...
-Can not retrieve from query{
-    search(query: "AI stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
-      pageInfo { endCursor }
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazerCount
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                            openIssues: issues(states: OPEN) {
-                                totalCount
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID E879:38302F:895D0D:11051E4:6801C904."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 1C01:181EFB:3843C:70071:680319D2."\n}'.
 Requesting query{
     search(query: "AI stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
       pageInfo { endCursor }
@@ -1033,7 +977,7 @@ Save Top 100 Stars in Generative_AI in Top100/Generative AI.md!
 Save AI in README.md!
 Save Top 100 Stars in AI in Top100/AI.md!
 
-Save data to Data/github-ranking-2025-04-18.csv
-Total time: 107.943914s
+Save data to Data/github-ranking-2025-04-19.csv
+Total time: 103.053262s
 auto update end
 commit&push start
