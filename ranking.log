@@ -1,10 +1,10 @@
 auto update start
 Running auto_run.sh with token
--rwxr-xr-x 1 runner docker 114 May 17 03:40 auto_run.sh
--rw-r--r-- 1 runner docker 8045 May 17 03:40 source/process.py
+-rwxr-xr-x 1 runner docker 114 May 18 03:48 auto_run.sh
+-rw-r--r-- 1 runner docker 8045 May 18 03:48 source/process.py
 -e 
 ----------Run Time:----------
-Sat May 17 03:40:16 UTC 2025
+Sun May 18 03:48:35 UTC 2025
 auto_run.sh
 Get most stars repos of LLM...
 Requesting query{
@@ -921,7 +921,7 @@ Save Top 100 Stars in Generative_AI in Top100/Generative AI.md!
 Save AI in README.md!
 Save Top 100 Stars in AI in Top100/AI.md!
 
-Save data to Data/github-ranking-2025-05-17.csv
-Total time: 105.595546s
+Save data to Data/github-ranking-2025-05-18.csv
+Total time: 105.001336s
 auto update end
 commit&push start
