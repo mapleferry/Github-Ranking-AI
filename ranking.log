@@ -1,10 +1,10 @@
 auto update start
 Running auto_run.sh with token
--rwxr-xr-x 1 runner docker 114 Jun 18 03:51 auto_run.sh
--rw-r--r-- 1 runner docker 8045 Jun 18 03:51 source/process.py
+-rwxr-xr-x 1 runner docker 114 Jun 19 03:51 auto_run.sh
+-rw-r--r-- 1 runner docker 8045 Jun 19 03:51 source/process.py
 -e 
 ----------Run Time:----------
-Wed Jun 18 03:51:23 UTC 2025
+Thu Jun 19 03:51:37 UTC 2025
 auto_run.sh
 Get most stars repos of LLM...
 Requesting query{
@@ -673,6 +673,62 @@ Requesting query{
             }
         }
         ...
+Can not retrieve from query{
+    search(query: "MoE stars:>0 sort:stars", type: REPOSITORY, first:50 ) {
+      pageInfo { endCursor }
+                edges {
+                    node {
+                        ...on Repository {
+                            id
+                            name
+                            url
+                            forkCount
+                            stargazerCount
+                            owner {
+                                login
+                            }
+                            description
+                            pushedAt
+                            primaryLanguage {
+                                name
+                            }
+                            openIssues: issues(states: OPEN) {
+                                totalCount
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID 0402:3262D3:10BA433:21C49B2:6853899A."\n}'.
+Requesting query{
+    search(query: "MoE stars:>0 sort:stars", type: REPOSITORY, first:50 ) {
+      pageInfo { endCursor }
+                edges {
+                    node {
+                        ...on Repository {
+                            id
+                            name
+                            url
+                            forkCount
+                            stargazerCount
+                            owner {
+                                login
+                            }
+                            description
+                            pushedAt
+                            primaryLanguage {
+                                name
+                            }
+                            openIssues: issues(states: OPEN) {
+                                totalCount
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        ...
 Requesting query{
     search(query: "MoE stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
       pageInfo { endCursor }
@@ -921,7 +977,7 @@ Save Top 100 Stars in Generative_AI in Top100/Generative AI.md!
 Save AI in README.md!
 Save Top 100 Stars in AI in Top100/AI.md!
 
-Save data to Data/github-ranking-2025-06-18.csv
-Total time: 105.168026s
+Save data to Data/github-ranking-2025-06-19.csv
+Total time: 109.892742s
 auto update end
 commit&push start
