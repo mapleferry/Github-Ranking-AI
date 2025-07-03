@@ -5,24 +5,24 @@
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | 53403 | 6543 | Python | 504 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2025-07-02T14:08:44Z |
-| 2 | [sglang](https://github.com/sgl-project/sglang) | 15660 | 2245 | Python | 494 | SGLang is a fast serving framework for large language models and vision language models. | 2025-07-03T03:57:28Z |
-| 3 | [ms-swift](https://github.com/modelscope/ms-swift) | 8426 | 726 | Python | 719 | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025). | 2025-07-03T02:28:44Z |
+| 1 | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | 53418 | 6546 | Python | 504 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | 2025-07-02T14:08:44Z |
+| 2 | [sglang](https://github.com/sgl-project/sglang) | 15660 | 2245 | Python | 493 | SGLang is a fast serving framework for large language models and vision language models. | 2025-07-03T05:39:45Z |
+| 3 | [ms-swift](https://github.com/modelscope/ms-swift) | 8430 | 726 | Python | 720 | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, GLM4v, Phi4, ...) (AAAI 2025). | 2025-07-03T02:28:44Z |
 | 4 | [trace.moe](https://github.com/soruly/trace.moe) | 4710 | 242 | None | 0 | Anime Scene Search by Image | 2024-10-13T03:00:58Z |
 | 5 | [Bangumi](https://github.com/czy0729/Bangumi) | 4522 | 147 | TypeScript | 23 | :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。 | 2025-06-30T10:37:29Z |
 | 6 | [Moeditor](https://github.com/Moeditor/Moeditor) | 4134 | 273 | JavaScript | 106 | (discontinued) Your all-purpose markdown editor. | 2020-07-07T01:08:32Z |
 | 7 | [fastllm](https://github.com/ztxz16/fastllm) | 3727 | 379 | C++ | 252 | fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。 | 2025-07-02T05:27:56Z |
-| 8 | [flashinfer](https://github.com/flashinfer-ai/flashinfer) | 3290 | 359 | Cuda | 131 | FlashInfer: Kernel Library for LLM Serving | 2025-07-02T15:35:49Z |
+| 8 | [flashinfer](https://github.com/flashinfer-ai/flashinfer) | 3292 | 360 | Cuda | 131 | FlashInfer: Kernel Library for LLM Serving | 2025-07-02T15:35:49Z |
 | 9 | [MoeKoeMusic](https://github.com/iAJue/MoeKoeMusic) | 2625 | 175 | Vue | 28 | 一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windows / macOS / Linux / Web :electron: | 2025-07-01T07:48:25Z |
 | 10 | [MoeGoe](https://github.com/CjangCjengh/MoeGoe) | 2390 | 248 | Python | 27 | Executable file for VITS inference | 2023-08-22T07:17:37Z |
-| 11 | [Moe-Counter](https://github.com/journey-ad/Moe-Counter) | 2389 | 244 | JavaScript | 8 | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | 2025-06-29T09:28:25Z |
+| 11 | [Moe-Counter](https://github.com/journey-ad/Moe-Counter) | 2390 | 244 | JavaScript | 8 | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | 2025-06-29T09:28:25Z |
 | 12 | [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) | 2181 | 138 | Python | 63 | Mixture-of-Experts for Large Vision-Language Models | 2024-12-03T09:08:16Z |
 | 13 | [MoBA](https://github.com/MoonshotAI/MoBA) | 1812 | 107 | Python | 7 | MoBA: Mixture of Block Attention for Long-Context LLMs | 2025-04-03T07:28:06Z |
 | 14 | [fastmoe](https://github.com/laekov/fastmoe) | 1753 | 196 | Python | 26 | A fast MoE impl for PyTorch | 2025-02-10T06:04:33Z |
 | 15 | [DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) | 1741 | 283 | Python | 17 | DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models | 2024-01-16T12:18:10Z |
 | 16 | [OpenMoE](https://github.com/XueFuzhao/OpenMoE) | 1550 | 78 | Python | 5 | A family of open-sourced Mixture-of-Experts (MoE) Large Language Models | 2024-03-08T15:08:26Z |
 | 17 | [paimon-moe](https://github.com/MadeBaruna/paimon-moe) | 1458 | 277 | JavaScript | 280 | Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter. | 2025-06-18T09:07:22Z |
-| 18 | [moemail](https://github.com/beilunyang/moemail) | 1371 | 717 | TypeScript | 21 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | 2025-06-22T16:38:30Z |
+| 18 | [moemail](https://github.com/beilunyang/moemail) | 1371 | 718 | TypeScript | 21 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | 2025-06-22T16:38:30Z |
 | 19 | [MOE](https://github.com/Yelp/MOE) | 1316 | 138 | C++ | 170 | A global, black box optimization engine for real world metric optimization. | 2023-03-24T11:00:32Z |
 | 20 | [mixture-of-experts](https://github.com/davidmrau/mixture-of-experts) | 1125 | 109 | Python | 5 | PyTorch Re-Implementation of "The Sparsely-Gated Mixture-of-Experts Layer" by Noam Shazeer et al. https://arxiv.org/abs/1701.06538 | 2024-04-19T08:22:39Z |
 | 21 | [moepush](https://github.com/beilunyang/moepush) | 1088 | 238 | TypeScript | 9 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ | 2025-05-10T11:42:44Z |
