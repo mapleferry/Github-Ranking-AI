@@ -1,6 +1,6 @@
 -e 
 ----------Run Time:----------
-Tue Jul 22 04:02:44 UTC 2025
+Wed Jul 23 04:04:22 UTC 2025
 auto_run.sh
 Get most stars repos of LLM...
 Requesting query{
@@ -492,7 +492,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID FFC1:3AD7A6:80CFF:100E0E:687F0D9D."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID D802:192652:5D48F3:B95342:68805F80."\n}'.
 Requesting query{
     search(query: "Claude stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
       pageInfo { endCursor }
@@ -548,7 +548,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID FFC0:3AD7A6:816FB:10221A:687F0D9F."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID D800:19D8A1:568E2A:ABF3FF:68805F82."\n}'.
 Requesting query{
     search(query: "Claude stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
       pageInfo { endCursor }
@@ -604,63 +604,7 @@ Can not retrieve from query{
                 }
             }
         }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID FFC2:1765CF:5EDF5:BD4C4:687F0DA1."\n}'.
-Requesting query{
-    search(query: "Claude stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
-      pageInfo { endCursor }
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazerCount
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                            openIssues: issues(states: OPEN) {
-                                totalCount
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        ...
-Can not retrieve from query{
-    search(query: "Claude stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
-      pageInfo { endCursor }
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazerCount
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                            openIssues: issues(states: OPEN) {
-                                totalCount
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID FFC3:1733F8:744CD:E8724:687F0DA3."\n}'.
+        . Response status is 403, content is b'{\n  "documentation_url": "https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits",\n  "message": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again. If you reach out to GitHub Support for help, please include the request ID D801:1E6C9A:592463:B0FAA0:68805F85."\n}'.
 Requesting query{
     search(query: "Claude stars:>0 sort:stars", type: REPOSITORY, first:50 , after:"Y3Vyc29yOjUw") {
       pageInfo { endCursor }
@@ -1141,7 +1085,7 @@ Save Top 100 Stars in Generative_AI in Top100/Generative AI.md!
 Save AI in README.md!
 Save Top 100 Stars in AI in Top100/AI.md!
 
-Save data to Data/github-ranking-2025-07-22.csv
-Total time: 118.832599s
+Save data to Data/github-ranking-2025-07-23.csv
+Total time: 117.205019s
 auto update end
 commit&push start
